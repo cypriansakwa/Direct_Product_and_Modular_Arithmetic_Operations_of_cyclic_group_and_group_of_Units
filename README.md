@@ -16,6 +16,9 @@ This Rust code shows operations on the direct product of the cyclic group $\math
 ## Usage
 - You can change the values of $n$ and $m$ in the main function to work with different cyclic groups. Furthermore, the code can be modified to perform various functions or interact with user input.
 - The program computes and displays the direct product of $\mathbb{Z}_n$ and $\mathbb{Z}_m^*$, which are predefined in the code. It will also show the sum of two elements and the inverse of an element from the direct product group.
+## Acknowledgments
+- Rust
+### Clone the repository or copy the source code into a Rust project.
 ```bash
 git clone https://github.com/cypriansakwa/Direct_Product_and_Modular_Arithmetic_Operations_of_cyclic_group_and_group_of_Units.git
 cd Direct_Product_and_Modular_Arithmetic_Operations_of_cyclic_group_and_group_of_Units
